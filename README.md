@@ -7,7 +7,7 @@ A lightweight, Python-based tool that tracks how long specific PC games are play
 
 ---
 
-##📦 Features
+## 📦 Features
 
 - ⏱️ Tracks runtime duration of specified game `.exe` files
 - 📋 Logs each session with timestamp

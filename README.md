@@ -47,9 +47,9 @@ Option 2: Run the Standalone .exe (No Python Needed)
 📌 Configuring Games
 - Edit games_to_track.txt and list the .exe names of games you want to monitor:
 
-- eldenring.exe
-- witcher3.exe
-- gta5.exe
+  - eldenring.exe
+  - witcher3.exe
+  - gta5.exe
 - Save the file — the tracker reads from it dynamically every few seconds.
 
 📊 Outputs
@@ -64,8 +64,8 @@ Option 2: Run the Standalone .exe (No Python Needed)
 ⚙️ Building the .exe (Optional)
 - To build your own .exe from the Python script:
 
-- pip install pyinstaller
-- pyinstaller --onefile tracking.py
+  - pip install pyinstaller
+  - pyinstaller --onefile tracking.py
 
 - You’ll find the .exe in the dist/ folder.
 
